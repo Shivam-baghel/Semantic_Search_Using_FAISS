@@ -1,0 +1,101 @@
+row num,product_name,category,description,price
+1,Pet Camera with Treat Dispenser,Pets,Monitor and interact with your pet remotely with this camera.,351.19
+2,Whole Wheat Pita Bread,Food - Bread,"Soft and fluffy whole wheat pita bread, great for wraps.",432.21
+3,Cocoa Powder,Food - Baking,Rich cocoa powder for baking and chocolate recipes.,131.11
+4,Roasted Garlic Mashed Potatoes,Food - Frozen Foods,Creamy mashed potatoes infused with roasted garlic flavor.,579.19
+5,Mini Electric Kettle,Kitchen,Quick boiling kettle for small kitchens and dorms.,546.43
+6,Blackberry Jam,Food - Condiments,Delicious homemade style blackberry jam.,562.29
+7,Multicolored LED Strip Lights,Home,Flexible LED lights for creative home lighting designs.,95.57
+8,Sriracha Chili Sauce,Food - Condiments,Spicy chili sauce with garlic and sugar for a flavor kick.,674.1
+9,Automatic Pet Feeder,Pets,Programmable pet feeder for scheduled meals.,956.11
+10,Coconut Oil Spray,Food - Cooking Oils,A zero-calorie coconut oil spray for cooking and baking.,884.52
+11,Dog Frisbee Toy,Pets,Durable and soft frisbee designed for dogs to play with.,72.39
+12,Apricot Jam,Food - Condiments,Sweet and tangy jam made from natural apricots.,587.43
+13,Summer Tank Dress,Clothing - Dresses,"A lightweight tank dress, ideal for warm weather outings.",901.96
+14,Dried Cranberries,Food - Snacks,"Sweet and tart dried cranberries, great for salads and baking.",752.4
+15,Chicken Salad Kit,Food - Prepared Foods,All-in-one kit for making delicious chicken salad.,168.79
+16,Classic Black Trousers,Clothing - Pants,Timeless black trousers for a smart and sophisticated look.,496.14
+17,Electric Food Slicer,Kitchen,"Versatile slicer for meats, cheeses, and vegetables.",432.73
+18,Sweet Corn Fritters,Food - Frozen,Golden-brown fritters made with sweet corn.,367.6
+19,Organic Honeycrisp Apples,Food - Fruits,"Sweet and crisp apples, perfect for snacking.",556.16
+20,Portable Hammock Swing,Outdoor,Lightweight and portable swing hammock for relaxing outdoors.,254.13
+21,Garden Kneeler and Seat,Garden,Convertible kneeler and seat for gardening comfort.,835.81
+22,Wall Art Stickers,Home,Removable wall art stickers for home decoration.,366.89
+23,Fresh Lemons,Food - Fresh Produce,Citrusy lemons perfect for drinks and cooking.,367.52
+24,Travel Pillow with Memory Foam,Travel,Ergonomically designed neck pillow for comfortable travel.,220.75
+25,Kids' Learning Tablet,Electronics,Educational tablet designed for preschool-age children.,789.09
+26,Gluten-Free Biscuits,Food - Baking,Fluffy biscuits made without gluten,281.4
+27,Whipped Cream Cheese,Food - Dairy,"Light and fluffy cream cheese, perfect for bagels or cooking.",219.89
+28,Honey Sesame Chicken,Food - Frozen Food,A delicious chicken dish featuring honey and sesame flavors.,964.25
+29,Dog Training Clicker,Pets,Training tool for reinforcing commands and behavior in dogs.,604.8
+30,Wall Calendar,Home,Beautiful wall calendar for organizing your schedule.,967.16
+31,Garden Tool Set,Garden,Complete set of gardening tools for all your needs.,301.33
+32,Collapsible Storage Crates,Home,Space-saving crates for easy organization at home or while traveling.,616.05
+33,Wireless Printer,Office,Compact wireless printer for home use.,129.98
+34,Peach Fruit Cups,Food - Snacks,"Juicy peach slices in light syrup, in convenient cups.",15.22
+35,Luxury Bathrobe,Clothing,Soft and cozy bathrobe perfect for relaxing at home.,785.23
+36,Scented Soy Candles,Home,Hand-poured candles made of natural soy wax.,760.11
+37,Floral Wrap Top,Clothing - Tops,A feminine wrap top with a beautiful floral print.,149.16
+38,Buffalo Style Cauliflower Bites,Food - Frozen Vegetables,"Frozen cauliflower bites coated in spicy buffalo sauce, ready to bake and enjoy as an appetizer.",994.83
+39,Portable Solar Camp Shower,Outdoor,Portable solar shower for camping and outdoor use.,577.09
+40,Pineapple Rings,Food - Canned Goods,Delicious canned pineapple rings for desserts or salads.,132.86
+41,Buffalo Chicken Wraps,Food - Prepared Meals,Savory wraps with buffalo chicken and fresh vegetables.,13.86
+42,Black Bean Soup,Food - Soups,"Spicy and flavorful soup made with black beans, perfect as a meal or starter.",506.05
+43,Frozen Berry Blend,Food - Frozen Foods,A mix of frozen berries for smoothies or desserts,206.81
+44,Gardening Tool Belt,Garden,Convenient belt with pockets for easy access to tools while gardening.,872.86
+45,Cinnamon Roll Kit,Food - Baking,Everything you need to make melt-in-your-mouth cinnamon rolls at home.,635.95
+46,BBQ Jackfruit,Food - Prepared Foods,"Tender jackfruit cooked in BBQ sauce, a delicious plant-based alternative.",339.78
+47,Organic Lentil Soup,Food - Soups,A hearty soup made with organic lentils and vegetables.,559.33
+48,Cranberry Pecan Granola,Food - Breakfast Foods,Crunchy granola with cranberries and pecans.,352.22
+49,Frozen Pizza,Food - Frozen Foods,Delicious frozen pizza with a variety of toppings.,130.31
+50,Fitness Foam Roller,Fitness,High-density foam roller for muscle recovery.,986.18
+51,Chocolate Chip Cookie Mix,Food - Baking,Everything you need to bake delicious chocolate chip cookies.,615.18
+52,Car Phone Mount,Automotive,Adjustable phone mount for car dashboard.,104.28
+53,Canvas Wall Art,Home,Stylish wall art to enhance home decor.,247.24
+54,Vegan chocolate chip cookies,Food - Bakery,"Delicious soft cookies, dairy-free and egg-free, perfect for treats.",551.94
+55,Customizable Name Puzzle,Toys,Personalized wooden puzzles for children that encourage learning.,70.51
+56,Granulated Sugar,Food - Baking,Fine granulated sugar for all your baking needs.,663.56
+57,Karaoke Microphone,Music,Wireless microphone for singing and performances.,328.14
+58,Chocolate Covered Pretzels,Food - Snacks,"Crunchy pretzels coated in rich chocolate, a sweet treat.",31.03
+59,Interactive Robot Toy,Toys,Fun robot that engages kids with games and activities.,427.05
+60,Wireless Smart Plug,Smart Home,Control home appliances remotely using your smartphone app.,116.85
+61,Kale and Quinoa Salad,Food - Salads,"A nutritious salad with kale, quinoa, and a zesty lemon dressing.",374.32
+62,Bock Beer Mustard,Food - Condiments,"Flavorful mustard with a tangy kick, perfect for hot dogs and sandwiches.",454.17
+63,Taro Chips,Food - Snacks,"Crispy chips made from taro root, a wonderful snack.",350.18
+64,Kale Salad Kit,Food - Salads,"Ready-to-eat salad with kale, lemon, and cheese.",846.33
+65,Chocolate Dipped Fruit,Food - Snacks,"Fruits dipped in rich chocolate, perfect for desserts.",413.13
+66,Classic Slim Fit Shirt,Clothing - Shirts,A tailored slim fit shirt for a polished look at work.,968.61
+67,Almond Flour Tortillas,Food - Baking & Cooking,"Gluten-free tortillas made from almond flour, perfect for various wraps and meals.",863.52
+68,Sun-Dried Tomato Pesto,Food - Condiments,A rich pesto made with sun-dried tomatoes and pine nuts.,939.86
+69,Greek Yogurt Parfait,Food - Dairy,"Layered Greek yogurt with granola and mixed berries, ready to enjoy.",284.34
+70,Green Tea Matcha Powder,Food - Beverages,High-quality matcha powder for smoothies and baking.,888.53
+71,Adjustable Laptop Desk,Office,Portable desk that can be adjusted for sitting or standing.,790.88
+72,Butternut Squash Soup,Food - Soups,"Creamy and delicious soup made with real butternut squash, ready to heat.",321.14
+73,Classic Slim Fit Shirt,Clothing - Shirts,A tailored slim fit shirt for a polished look at work.,405.36
+74,Multifunctional Baby Bottle Warmer,Baby,Warmer for heating baby bottles and food jars.,345.58
+75,Portable Solar Path Lights,Outdoor,Eco-friendly solar lights for pathways and gardens.,454.55
+76,LED Under Cabinet Lighting,Home,Easy-to-install lights to brighten kitchen cabinets and workspaces.,90.14
+77,Sweet Potato Mash,Food - Frozen Foods,"Creamy mashed sweet potatoes, ready to heat and serve.",99.69
+78,Oats,Food - Grains,"Organic rolled oats, great for breakfast or baking.",394.15
+79,Pest Control Traps,Home,Non-toxic traps for catching household pests safely.,18.95
+80,Garlic Naan Bread,Food - Bakery,"Soft and delicious garlic-infused flatbread, perfect for dipping.",466.83
+81,Vegan Protein Powder,Health,Plant-based protein powder for post-workout recovery.,75.36
+82,Overnight Hiking Backpack,Outdoor,Durable backpack with ample storage for outdoor adventures.,23.55
+83,Portable Solar Path Lights,Outdoor,Eco-friendly solar lights for pathways and gardens.,131.13
+84,Rice Pilaf Mix,Food - Grains,Quick and easy rice pilaf mix for side dishes.,554.61
+85,Warm Wool Sweater,Clothing - Tops,Cozy wool sweater to keep you warm on chilly days.,643.62
+86,Mango Chia Pudding,Food - Snacks,Healthy chia pudding made with mango and coconut milk.,262.15
+87,Portable Hammock,Outdoor,Lightweight hammock for easy setup anywhere.,493.92
+88,Roasted Garlic Aioli,Food - Condiments,Flavored aioli made with roasted garlic,835.22
+89,Baked Falafel Balls,Food - Frozen Vegetables,"Frozen falafel balls made from chickpeas and herbs, perfect for quick meals or salads.",107.52
+90,Mixed Berry Smoothie Pack,Food - Frozen Food,"Frozen berries blend perfect for smoothies, just add yogurt.",517.64
+91,Sports Windbreaker,Clothing - Outerwear,Lightweight windbreaker for outdoor activities.,413.95
+92,Microfiber Cleaning Cloth Set,Home,Assorted cloths for cleaning electronics and delicate surfaces.,294.09
+93,Compact Pop-Up Tent,Outdoor,Easy setup tent perfect for camping and outdoor festivals.,882.71
+94,Chocolate Almond Milk,Food - Dairy Alternatives,Rich and creamy almond milk with a hint of chocolate.,548.62
+95,Summer Tank Dress,Clothing - Dresses,"A lightweight tank dress, ideal for warm weather outings.",515.94
+96,Field Journal,Books,Durable journal for nature observations and notes.,764.63
+97,Gardening Tool Belt,Garden,Convenient belt with pockets for easy access to tools while gardening.,647.91
+98,Chocolate Chip Cookie Mix,Food - Baking,Everything you need to bake delicious chocolate chip cookies.,693.75
+99,Memory Foam Pillow,Home,Ergonomic memory foam pillow for better sleep.,311.47
+100,DIY Candle Kit,Crafts,Everything you need to make your own scented candles at home.,90.07
